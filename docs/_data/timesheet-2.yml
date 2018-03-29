@@ -1,28 +1,85 @@
 # ╔═══════════╗
-# ║ Student 2 ║
+# ║ ELINE║
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  time: 3
+  task: Briefing eerste les.
+-
+  time: 2
+  task: Begrijpen van de opdracht, enquête opstellen, vragen beantwoorden analyse
+-
+  time: 2.50
+  task: Installatie tijdens de les.
 -
   time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  task: enquête bijhouden en afronden
 -
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  time: 4
+  task: Persona's, scenario's, lay out productiedossier
+-
+  time: 4
+  task: Museumbezoek + verslag thuis bespreken,...
+-
+  time: 2.5
+  task: Technische analyse 
+-
+  time: 3
+  task: Elevator Pitch
+-
+  time: 3.50
+  task: technische analyse verder afwerken, concept volledig uittypen en journey map alles digitaal invoegen en typen
+-
+  time: 4
+  task:  Style Stile samen maken
+-
+  time: 3
+  task: Prototype paper smartwatch
+-
+  time: 3
+  task: Feedback en aanpassingen + begin wireflow
+-
+  time: 2.5
+  task: Foto's genomen en bewerkt van het prototype, ook meteen op de site gezet
 -
   time: 1
-  task: Lorem ipsum sit dolor amet.
+  task: Samen wireflow afwerken en filmen
 -
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 0
+  task: Prototype laten testen en verslag schrijven van hun feedback.
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  time: 0
+  task: 
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 0
+  task: 
 -
-  time: 200
-  task: Lorem ipsum sit dolor amet.
+  time: 0
+  task: 
+-
+  time: 0
+  task: 
+-
+  time: 0
+  task: 
+-
+  time: 0
+  task: 
+-
+  time: 0
+  task: 
+-
+  time: 0
+  task: 
+-
+  time: 0
+  task: 
+-
+  time: 0
+  task: 
+-
+  time: 0
+  task: 
+-
+  time: 0
+  task: 

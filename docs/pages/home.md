@@ -7,8 +7,4 @@ permalink: home
 title: Opdracht NMD-III
 ---
 
-Wie zijn we?
-------------
 
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
