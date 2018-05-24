@@ -39,10 +39,14 @@ De camera is groter dan de normale modellen.
 </div>
 </div>
 
-<img class="grafiek" src="/1718-nmd3-project-defoer-denblauwen/assets/img/regel1.jpg" width="100%" alt="regel1" /><br><br>
+<img class="grafiek" src="/1718-nmd3-project-defoer-denblauwen/assets/img/regel1.jpg" width="100%" alt="regel1"/> 
+<p class='bronvermelding'>Human Interface guidelines. (2018). Geraadpleegd op 15 maart 2018, van https://developer.apple.com/ios/human-interface-guidelines/visual-design/adaptivity-and-layout/</p> 
+<br><br>
 De blauwe zone is bedoeld als ruimte om te kunnen ontwerpen. Als je ontwerp moet je zeker rekening houden dat je niet te dicht bij de 'homeknop' ontwerpt zodat mensen deze niet per ongelukt gebruiken als ze een element proberen aantikken.
 
-<img class="grafiek" src="/1718-nmd3-project-defoer-denblauwen/assets/img/regel2.jpg" width="100%" alt="regel2" /><br><br>
+<img class="grafiek" src="/1718-nmd3-project-defoer-denblauwen/assets/img/regel2.jpg" width="100%" alt="regel2" />
+<p class='bronvermelding'>Human Interface guidelines. (2018). Geraadpleegd op 15 maart 2018, van https://developer.apple.com/ios/human-interface-guidelines/visual-design/adaptivity-and-layout/</p>
+<br><br>
 Probeer de afgeronde hoeken niet te verstoppen of er speciale aandacht aan te geven
 Sta het automatisch verbergen van de indicator toe om spaarzaam naar het startscherm te gaan. 
 <br>
@@ -145,7 +149,8 @@ Gebruik grote tikdoelen
 <div class="col"><br>
 Kleine en krappe tikdoelen vergroten de kans dat gebruikers op het verkeerde doel tikt
 </div>
-</div>
+</div><br>
+<p class='bronvermelding'>Wear OS by Google. (2018). Geraadpleegd op 15 maart 2018, van https://designguidelines.withgoogle.com/wearos/wear-os-by-google/creative-vision.html#</p><br><br>
 
 <br>
 <br>

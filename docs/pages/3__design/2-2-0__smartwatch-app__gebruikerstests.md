@@ -10,6 +10,8 @@ title: Gebruikerstests
 We zochten voor elke Journey Map een gebruiker en lieten ons prototype uittesten.
 Hieronder documenten we aan de hand van foto's en een kort verslag wat er besproken werd.
 
+Enkele opmerkingen kwamen terug en die pasten we dan ook aan. De positieve meningen waren deels gelijklopend.
+
 Persoon 1
 ---------------
 
@@ -57,29 +59,25 @@ Persoon 2
 </div>
 </div><br>
 
-We lieten X een 50 jarig vrouw onze app testen.
+We lieten X een 45 jarig vrouw onze app testen.
 
 <div class="row">
 
 <div class="col">
 <h3>Positieve opmerkingen</h3><hr>
 <ul>
-<li>test</li>
-<li>test</li>
-<li>test</li>
-<li>test</li>
-<li>test</li>
+<li>Goed dat je beloond wordt voor het bezoek aan het museum</li>
+<li>Leuk dat er keuzes zijn hoe je de informatie wil lezen/horen.</li>
+<li>De werking is vrij duidelijk</li>
 </ul>
 </div>
 
 <div class="col">
 <h3>Verbeterpunten</h3><hr>
 <ul>
-<li>test</li>
-<li>test</li>
-<li>test</li>
-<li>test</li>
-<li>test</li>
+<li>Gebruik overal dezelde taal</li>
+<li>Ze zou het museum icoon eerst zetten in het menu</li>
+<li>Bij het scherm van de coins eventueel wat uitleg over het aantal dat je moet sparen en wat je er dan voor krijgt.</li>
 </ul>
 </div>
 

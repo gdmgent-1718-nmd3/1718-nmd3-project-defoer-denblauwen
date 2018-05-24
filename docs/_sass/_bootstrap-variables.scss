@@ -10,17 +10,17 @@
 // Color system
 //
 
-$white:   #ffffff !default;
+$white:   #ffffff;
+$pink:#CD5B5F !default;
 $primary: $white;
-
+$secondary:$pink;
 
 // Fonts
 //
 // Font, line-height, and color for body text, headings, and more.
 
 
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
-$font-family: 'Quicksand', sans-serif;
-
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+$font-family: 'Oswald', sans-serif;
 
 
