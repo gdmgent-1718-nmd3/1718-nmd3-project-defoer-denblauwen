@@ -6,11 +6,8 @@ published: true
 # ─────────────────────
 title: Journey Maps
 ---
-<br>
-
 Lens
 -----
-<hr>
 
 <div class="row">
 <div class="col">
@@ -56,7 +53,6 @@ Beleving
 
 Inzichten
 ---------
-<hr>
 
 <h3>Pijnpunten</h3>
 Hij vindt het jammer dat er geen aanwijzingen zijn voor de toiletten.
@@ -67,7 +63,6 @@ Een betere inkleding als ontvangt om de bezoeker zich beter te laten voelen kan 
 
 Lens
 ----
-<hr>
 
 <div class="row">
 <div class="col">
@@ -92,10 +87,12 @@ Als ik dan op de knop'NL' druk<br>
 Dan verkrijg ik de site in het nederlands
 </div>
 </div>
+<br>
+
 
 Beleving
 --------
-<hr><br>
+<br>
 
 | DE FASE    |  ACTIES/TAKEN     | GEDACHTEN   | INST./EMOTIES   |
 |:----------:|:-----------------:|:-----------:|:---------------:|
@@ -109,7 +106,6 @@ Beleving
 
 Inzichten
 ---------
-<hr>
 
 <h3>Pijnpunten</h3>
 Ze vindt dat er een te kort is aan informatie en dat ze graag wat meer info had gekregen bij verschillende werken die ze tijdens haar bezoek bezocht had.
@@ -117,7 +113,7 @@ Ze vindt dat er een te kort is aan informatie en dat ze graag wat meer info had 
 <h3>Opportuniteiten</h3>
 Een app die meer informatie kan bieden bij de verschillende werken en zo de bezoekers meer informeren.
 <br>
-
+<br>
 
 
 

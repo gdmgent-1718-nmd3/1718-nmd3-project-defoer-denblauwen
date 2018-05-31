@@ -6,6 +6,10 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
+<h3>
+<a href="https://xd.adobe.com/view/e5ebca68-712a-427e-405e-6600e594c59e-93da/" target="_blank">Ga hier naar XD</a>
+</h3>
+
 <br>
 <div class="row">
 <div class="col">
@@ -54,21 +58,9 @@ title: Screen Designs
 <img src="/1718-nmd3-project-defoer-denblauwen/assets/img/screendesign9.png" width="100%" alt="screendesign" />
 </div>
 <div class="col">
-<img src="/1718-nmd3-project-defoer-denblauwen/assets/img/screendesign10.png" width="100%" alt="screendesign" />
 </div>
 </div><br>
 
-<div class="row">
-<div class="col">
-<img src="/1718-nmd3-project-defoer-denblauwen/assets/img/screendesign11.png" width="100%" alt="screendesign" />
-</div>
-<div class="col">
-<img src="/1718-nmd3-project-defoer-denblauwen/assets/img/screendesign12.png" width="100%" alt="screendesign" />
-</div>
-<div class="col">
-<img src="/1718-nmd3-project-defoer-denblauwen/assets/img/screendesign13.png" width="100%" alt="screendesign" />
-</div>
-</div><br>
 
 <div class="row">
 <div class="col">
@@ -107,3 +99,4 @@ title: Screen Designs
 <div class="col">
 </div>
 </div>
+<br>

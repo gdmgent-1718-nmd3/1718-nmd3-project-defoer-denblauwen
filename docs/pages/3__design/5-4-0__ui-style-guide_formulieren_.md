@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Formulieren
 ---
+<br>
+We hebben in onze app geen formulieren gebruikt.

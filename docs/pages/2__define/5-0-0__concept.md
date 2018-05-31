@@ -58,7 +58,9 @@ Bij het binnenkomen en afrekenen aan de kassa in het museum krijg je een barcode
 <img src="/1718-nmd3-project-defoer-denblauwen/assets/img/tekst.jpg" width="100%" alt="tekst" />
 </div>
 <div class="col">
-<h3>LEES DE INFO DIREST VIA JE SMARTPHONE OF SMARTWATCH</h3><hr>Tijdens de tentoonstellingen zullen er nummers hangen onder de verschillende werken. Via hetzelfde nummer op je scherm kan je de juiste informatie openen via de app. <br><br>Zo krijg je extra informatie over het kunstwerk<br><br>
+<h3>LEES DE INFO DIREST VIA JE SMARTPHONE OF SMARTWATCH</h3><hr>Tijdens de tentoonstellingen zullen er nummers hangen onder de verschillende werken. Via hetzelfde nummer op je scherm kan je de juiste informatie openen via de app. <br>
+
+Zo krijg je extra informatie over het kunstwerk<br><br>
 
 Bij het openen van 3/4de van de informatie wordt je level voltooid en ontvang je 5 coints. Bij 20 coints krijg je een korting bij je volgende toegang tot een tentoonstelling.
 </div>

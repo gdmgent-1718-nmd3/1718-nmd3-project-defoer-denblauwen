@@ -8,23 +8,25 @@ title: Gebruikerstests
 ---
 <br>
 We zochten voor elke Journey Map een gebruiker en lieten ons prototype uittesten.
-Hieronder documenten we aan de hand van foto's en een kort verslag wat er besproken werd.
+Hieronder tonen we aan de hand van foto's en een kort verslag wat er besproken werd.
 
 Enkele opmerkingen kwamen terug en die pasten we dan ook aan. De positieve meningen waren deels gelijklopend.
+<br>
+<br>
 
 Persoon 1
 ---------------
 
 <div class="row">
 <div class="col">
-<img src="/1718-nmd3-project-defoer-denblauwen/assets/img/vrouw1.jpg" width="100%" alt="fotohanden 1" />
+<img src="/1718-nmd3-project-defoer-denblauwen/assets/img/vrouw1.jpg" width="105%" alt="fotohanden1" />
 </div>
 <div class="col">
-<img src="/1718-nmd3-project-defoer-denblauwen/assets/img/vrouw2.jpg" width="100%" alt="fotohanden2" />
+<img src="/1718-nmd3-project-defoer-denblauwen/assets/img/vrouw2.jpg" width="110%" alt="fotohanden2" />
 </div>
 </div><br>
 
-We lieten X een 18 jarig meisje onze app testen. We legden eerst ons concept uit en vertelden over de problemen die het museum zich voordeed.
+We lieten Justine een 18 jarig meisje onze app testen. We legden eerst ons concept uit en vertelden over de problemen die het museum zich voordeed.
 <div class="row">
 
 <div class="col">
@@ -44,8 +46,9 @@ We lieten X een 18 jarig meisje onze app testen. We legden eerst ons concept uit
 <li>Ze raadt ons aan om een andere volgorde te gebruiken in ons menu: eerst instellingen dan tentoonstellingen en dan de andere twee.</li>
 </ul>
 </div>
-
 </div>
+<br>
+
 
 Persoon 2
 ---------------
@@ -59,7 +62,7 @@ Persoon 2
 </div>
 </div><br>
 
-We lieten X een 45 jarig vrouw onze app testen.
+We lieten Annemie een 45 jarig vrouw onze app testen.
 
 <div class="row">
 
@@ -80,7 +83,6 @@ We lieten X een 45 jarig vrouw onze app testen.
 <li>Bij het scherm van de coins eventueel wat uitleg over het aantal dat je moet sparen en wat je er dan voor krijgt.</li>
 </ul>
 </div>
-
 </div>
 <br>
-<br>
+

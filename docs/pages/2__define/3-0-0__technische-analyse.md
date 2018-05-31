@@ -75,7 +75,7 @@ Smartwatch - Apple Watch Series 1
 </div>
 
 <div class="col">
-<h2>Bediening</h2>
+<h3>Bediening</h3>
 <img class="grafiek" src="/1718-nmd3-project-defoer-denblauwen/assets/img/knoppen.png" width="80%" alt="afmetingen" />
 
 <h3>Home knop</h3>

@@ -6,6 +6,11 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
+<h3>
+<a href="https://xd.adobe.com/view/a0323e10-5a87-412e-7323-c6c0e59cedf4-d603/" target="_blank">Ga hier naar XD</a>
+</h3>
+
+<br>
 <div class="row">
 <div class="col">
 <img src="/1718-nmd3-project-defoer-denblauwen/assets/img/screendesignsmartphone1.png" width="100%" alt="screendesign" />
@@ -105,4 +110,4 @@ title: Screen Designs
 </div>
 <div class="col">
 </div>
-</div>
+</div><br>

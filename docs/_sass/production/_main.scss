@@ -5,31 +5,40 @@ body {
    
 /*TYPOGRAFIE*/
 p   {
-    font-size:11pt;
+    font-size:13pt;
+    font-family: Roboto;
    }
 
 h1  {
-    margin-top: 21px;
+    font-family: Roboto;
+    font-size:50px;
+    font-weight:700;
+    margin-top: 70px;
+    margin-bottom: 30px;
     color:$secondary;
     text-align: center;
     }
 
-h2{
-    margin-top: 23px;
-    color: $secondary;
-    font-size:20pt;
+h2  {
+    font-family: Roboto;
+    font-size:30px;
+    font-weight:700;
+    color:$secondary;
     }
    
-h3{
-    margin-top: 25px;
-    color: $secondary;
-    font-size:14pt;
+h3  {
+    margin-top: 23px;
+    font-family: Roboto;
+    font-size:20px;
+    font-weight:700;
+    color:$secondary;
     }
    
 .link{
     color:$secondary;
     text-decoration: none;
    }
+
 .bronvermelding{
     font-size:9pt;
 }
@@ -42,3 +51,34 @@ h3{
 .grafiek{
     margin-top: 30px;
    }
+
+a{
+    margin-top: 21px;
+    color: $secondary;
+    font-size:14pt;
+    text-decoration: none;
+}
+
+ul,
+li{
+    padding-left: 60px;
+    padding-top: 10px;
+}
+
+.color
+{padding:30px;
+color:white;
+text-align:center;
+}
+
+.darkgrey
+{background-color: rgb(65, 70, 75);}
+
+.lightgrey
+{background-color: rgb(230, 230, 230);}
+
+.pink
+{background-color: rgb(205, 90, 95);}
+
+.gradient
+{background: linear-gradient(to bottom right, #EC5F65, #F9CAC4);}

@@ -9,7 +9,7 @@ title: Planning
 
 <div class="row">
 <div class="col">
-
+<br>
 <h2>Fran</h2>
 <hr>
 <h3>15/02</h3>Enquête opstellen i.v.m. museumbezoeken en laten ronddelen.
@@ -30,18 +30,11 @@ title: Planning
 <h3>3/04</h3>Verder werken aan de visual designs
 <h3>18/05</h3>Visual designs smartwatch, smartphone en wireflow smartwatch
 <h3>19/05</h3>wireframes, wireflow en visual design smartphone
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
 </div>
 
 
 <div class="col">
-
+<br>
 <h2>Eline</h2>
 <hr>
 <h3>15/02</h3>Enquête opstellen en delen
@@ -65,14 +58,11 @@ title: Planning
 <h3>3/05</h3>Meer uitleg tikken bij het prototype en filmpjes
 <h3>18/05</h3>bronvermeling, visual designs smartphone en wireflow.
 <h3>22/05</h3>Wireflow smartphone maken + wireflows en visual design in het productiedossier zetten
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-
+<h3>26/05</h3>wireflow en screen-designs website maken
+<h3>28/05</h3>home en briefing herwerken + koppelen pagina's + alle paginas controleren + sitemap maken + UI kleuren en knoppen
+<h3>Typografie UI</h3>
+<h3>Presentatie samen maken</h3>
+<h3>Alles nakijken en indienen</h3>
 </div>
 </div>
 

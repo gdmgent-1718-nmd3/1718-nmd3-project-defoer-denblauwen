@@ -20,10 +20,12 @@ We hadden het idee om een enquête op te stellen die we dan lieten rondgaan bij 
 
 We stelden 5 verschillende vragen op die ons een beter beeld gaven bij ons onderzoek. 
 
-<img class="grafiek" src="/1718-nmd3-project-defoer-denblauwen/assets/img/grafiek1.jpg" width="100%" alt="Persona1" />
+![A test image](/1718-nmd3-project-defoer-denblauwen/assets/img/grafiek1.jpg){: width="100%"}
+
 Het koppel kwam naar het museum als ontspanning op hun vrije werkdag. In onze grafiek kunnen we afleiden dat vele mensen gaan als ontspanning of voor school daarbij komt toch wel enige interesse bij kijken.    Hieruit kunnen we afleiden dat de meeste mensen die naar een museum gaan toch wel gaan omwille van enige intresse. Zelf waren we heel nieuwsgierig over de andere redenen die bepaalde personen hebben. 
 
-<img class="grafiek" src="/1718-nmd3-project-defoer-denblauwen/assets/img/grafiek2.jpg" width="100%" alt="Persona1" />
+![A test image](/1718-nmd3-project-defoer-denblauwen/assets/img/grafiek2.jpg){: width="100%"}
+
 1. Het spreekt met niet aan
 2. Nooit de tijd voor gehad
 3. Omdat ik moet betalen/te duur is
@@ -32,14 +34,16 @@ Het koppel kwam naar het museum als ontspanning op hun vrije werkdag. In onze gr
 Vele willekeurige mensen tonen weinig interesse voor het hele museumgebeuren of vinden het gewoon weg te duur. Het koppel waar we onze vragen aan stelden haalde ook aan dat waarschijnlijk vaak mensen denken aan een museum met witte muren en saaie schilderijen. Dat is deze dagen veel minder
 
 
-<img class="grafiek" src="/1718-nmd3-project-defoer-denblauwen/assets/img/grafiek3.jpg" width="100%" alt="Persona1" />
+![A test image](/1718-nmd3-project-defoer-denblauwen/assets/img/grafiek3.jpg){: width="100%"}
 Aan de hand van onze grafiek merken we dat de mensen meestal de site bezoeken voor ze langsgaan. We vroegen dit ervoor ook aan het koppel in het museum en zei bekeken de website enkel en alleen voor de openingsuren. We gaan proberen via de smartwach en smartphone de site meer in beeld te brengen.
 
-<img class="grafiek" src="/1718-nmd3-project-defoer-denblauwen/assets/img/grafiek4.jpg" width="100%" alt="Persona1" />
+![A test image](/1718-nmd3-project-defoer-denblauwen/assets/img/grafiek4.jpg){: width="100%"}
 Bij de voorlaatste vraag hadden wij helemaal andere antwoorden verwacht. Het grotendeels van de mensen vinden de sites van musea modern en rustig. We dachten vooraf dat we hierop gingen moeten inspelen maar nadat we zde resultaten hebben bekeken gaan we dit vooral proberen behouden.
 
-<img class="grafiek" src="/1718-nmd3-project-defoer-denblauwen/assets/img/grafiek5.jpg" width="100%" alt="Persona1" />
+![A test image](/1718-nmd3-project-defoer-denblauwen/assets/img/grafiek5.jpg){: width="100%"}
+
 Heel erg veel mensen kozen voor de app via smartphone dus staan wel erg open voor een app die ze zelf kunnen bedienen.
+<br>
 
 Analyse van de website
 --------

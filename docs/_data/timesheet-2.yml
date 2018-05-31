@@ -1,5 +1,5 @@
 # ╔═══════════╗
-# ║ ELINE║
+# ║ ELINE ║
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
@@ -12,8 +12,8 @@
   time: 2.50
   task: Installatie tijdens de les.
 -
-  time: 0.5
-  task: enquête bijhouden en afronden
+  time: 1
+  task: Enquête bijhouden en afronden
 -
   time: 4
   task: Persona's, scenario's, lay out productiedossier
@@ -28,10 +28,10 @@
   task: Elevator Pitch
 -
   time: 3.50
-  task: technische analyse verder afwerken, concept volledig uittypen en journey map alles digitaal invoegen en typen
+  task: Technische analyse verder afwerken, concept volledig uittypen en journey map alles digitaal invoegen en typen
 -
   time: 4
-  task:  Style Stile samen maken
+  task: Style Stile samen maken
 -
   time: 3
   task: Prototype paper smartwatch
@@ -42,10 +42,10 @@
   time: 2.5
   task: Foto's genomen en bewerkt van het prototype, ook meteen op de site gezet
 -
-  time: 1
+  time: 3
   task: Samen wireflow afwerken en filmen
 -
-  time: 1
+  time: 2
   task: Prototype laten testen en verslag schrijven van hun feedback.
 -
   time: 3
@@ -54,32 +54,23 @@
   time: 6
   task: Verder werken aan visual designs
 -
-  time: 4
-  task: wireflows + screendesign
+  time: 5
+  task: Wireflows + screendesign
 -
   time: 6
   task: Wireflow smartphone maken + wireflows en visual design in het productiedossier zetten
 -
-  time: 0
-  task: 
+  time: 5
+  task: Wireframe en screen design website
 -
-  time: 0
-  task: 
+  time: 9
+  task: Herwerking briefing en home + pagina's koppelen + sitemap website + UI kleuren en knoppen
 -
-  time: 0
-  task: 
+  time: 3
+  task: Typografie gemaakt
 -
-  time: 0
-  task: 
+  time: 2.5
+  task: Presentatie samen maken
 -
-  time: 0
-  task: 
--
-  time: 0
-  task: 
--
-  time: 0
-  task: 
--
-  time: 0
-  task: 
+  time: 1
+  task: Alles controleren en indienen

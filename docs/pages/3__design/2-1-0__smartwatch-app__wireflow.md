@@ -47,18 +47,6 @@ title: Wireflow
 </div>
 </div>
 
-<div class="row">
-<div class="col">
-<img src="/1718-nmd3-project-defoer-denblauwen/assets/img/wireflowsmartwatch10.png" width="100%" alt="screendesign" />
-</div>
-<div class="col">
-<img src="/1718-nmd3-project-defoer-denblauwen/assets/img/wireflowsmartwatch11.png" width="100%" alt="wireflows" />
-</div>
-<div class="col">
-<img src="/1718-nmd3-project-defoer-denblauwen/assets/img/wireflowsmartwatch12.png" width="100%" alt="wireflows" />
-</div>
-</div>
-
 
 <div class="row">
 <div class="col">
@@ -100,3 +88,17 @@ title: Wireflow
 
 <br>
 <img src="/1718-nmd3-project-defoer-denblauwen/assets/img/wireflowsmartwatch.jpg" width="110%" alt="wireflows" />
+
+<h3>
+<a href="https://xd.adobe.com/view/de7dd404-07e1-4cc5-4a52-07b847783ea9-a84c/?fullscreen" target="_blank">Klik hier voor meer informatie bij elke knop of actie</a>
+</h3>
+
+1. Logo menu Dhont-Dhaenens
+2. Verderklikken naar volgende pagina
+3. Klikken op een icoon om naar de volgende pagina te gaan
+4. Klikken naar vorige pagina
+5. Mogelijkheid om de opname op pauze, stop of doro te spoelen
+6. Aanduiding tot scrollen
+7. Pijl die aangeeft dat het balkje open klikt
+
+<br>
