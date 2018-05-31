@@ -30,6 +30,16 @@ title: Planning
 <h3>3/04</h3>Verder werken aan de visual designs
 <h3>18/05</h3>Visual designs smartwatch, smartphone en wireflow smartwatch
 <h3>19/05</h3>wireframes, wireflow en visual design smartphone
+<<<<<<< HEAD
+=======
+<h3>22/05</h3>Afwerken wireflow smartphone
+<h3>24/05</h3>Nummertjes plaatsen bij wireflow van smartphone en smartwatch + uitleg over knoppen + XD online plaatsen + probleem oplossen grootte Iphone X bij wireflow
+<h3>26/05</h3> Probleem oplossen grootte Iphone X bij visuals
+<h3></h3>
+<h3></h3>
+<h3></h3>
+<h3></h3>
+>>>>>>> 69b279cfd1c349c842fc9aef7a316005bf02e24c
 </div>
 
 
